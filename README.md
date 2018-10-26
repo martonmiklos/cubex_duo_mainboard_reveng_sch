@@ -1,5 +1,7 @@
-# cubex_duo_mainboard_reveng_sch
-Reverse engineered schematics for the CubeX DUO mainboard
+# 3D systems CubeX DUO reverse engineered schematic
+Reverse engineered schematics for the 3D system's CubeX DUO 3D printer mainboard.
+
+Drawn in Autodesk EAGLE 9.x
 
 Only the stepper drivers for the main axes and the LCD connector have been reverse engineered yet. 
 
